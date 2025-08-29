@@ -1,2 +1,2 @@
 # Introvert-From-Extrovert
-Practicsing
+Self Learning And Practicsing For Data-Sci
